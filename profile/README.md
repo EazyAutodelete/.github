@@ -14,7 +14,7 @@ I am maintained & developed by [@Qreepex](https://github.com/qreepex) - visit hi
 
 ## 🛠 Programming Languages
 
-My current core is written in TypeScript, as well as many other side components. My web services are mostly written in Svelte using TailwindCSS and some other things like my REST Proxy, API and Payment Handling are written in Go.
+My current core is built with micro services using Go, as well as many other side components. My web services are mostly written in Svelte using TailwindCSS and some other things like my REST Proxy, API and Payment Handling are also mainly written in Go.
 
 You can see some usage stats below or on the right.
 
